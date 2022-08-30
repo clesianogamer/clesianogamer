@@ -4,7 +4,11 @@ body{
 
 a{
     text-decoration: none;
-    color: red;
+    color: white;
+}
+
+a:hover{
+    background-color: red;
 }
 
 #top-home{
