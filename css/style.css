@@ -28,12 +28,12 @@ p{
     padding-left: 160px;
 }
 
-#titulo-randomizer{
+h2{
     text-align: left;
     padding-left: 160px;
 }
 
-#mod-randomizer{
+iframe{
     padding-left: 160px;
 }
 
@@ -42,7 +42,3 @@ p{
     padding-left: 160px;
 }
 
-#imgre4-randomizer{
-    text-align: left;
-    padding-left: 160px;
-}
