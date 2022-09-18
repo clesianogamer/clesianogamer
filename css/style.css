@@ -2,6 +2,10 @@ body{
     background-color: black;
 }
 
+a{
+    text-decoration: none;
+}
+
 :root{
     --cor-fundo : rgb(34, 41, 37);
     --cor-hover : rgb(118, 180, 145);
